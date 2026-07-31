@@ -45,7 +45,7 @@ from their original providers. Download them directly from the sources below.
 
 ## Requirements
 
-- [QGIS](https://qgis.org/) (3.x recommended)
+- [QGIS](https://qgis.org/) (3.44 recommended)
 
 
 ## Note on large files

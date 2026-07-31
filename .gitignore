@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Large source datasets — cited in README, not redistributed (exceed GitHub's 100 MB limit)
+*.zip
+GHS_BUILTUP_2000.tif
+GHS_BUILTUP_2000.tif.aux.xml
+GHS_WUP_BUILT_S_E2000_GLOBE_R2025A_54009_1000_V1_0/
+GHS_WUP_BUILT_S_E2025_GLOBE_R2025A_54009_1000_V1_0/
+Land Surface Temperature/
+
+# Superseded documents — only the two Urban_Sprawl_UHI reports are kept
+GIS_II_FInal.docx
+Shravya.pdf
+Shravya_GIS2_Final.pdf
+Urban_Sprawl_UHI_Short.docx

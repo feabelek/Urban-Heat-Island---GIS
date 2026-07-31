@@ -1,0 +1,15 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="AREA_OR_POINT">Area</MDI>
+    <MDI key="TIFFTAG_SOFTWARE">MATLAB 9.13, Mapping Toolbox 5.4</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.0038744639605284</MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.63839536905289</MDI>
+      <MDI key="STATISTICS_MEAN">0.30970478271003</MDI>
+      <MDI key="STATISTICS_STDDEV">0.13679892291205</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">62.69</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

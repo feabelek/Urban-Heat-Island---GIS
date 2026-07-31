@@ -47,12 +47,6 @@ from their original providers. Download them directly from the sources below.
 
 - [QGIS](https://qgis.org/) (3.x recommended)
 
-## Usage
-
-1. Download the datasets listed under **Data sources**.
-2. Open `Final_Project_Bangalore.qgz` in QGIS.
-3. If layers show as unavailable, repair the data source paths (right-click the layer →
-   *Repair Data Source…*) to point at your local copies.
 
 ## Note on large files
 
